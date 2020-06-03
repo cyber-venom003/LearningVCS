@@ -1,3 +1,3 @@
 # LearningVCS
 A simple demo repository
-- Add your names here!
+Add your names here!
